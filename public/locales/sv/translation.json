@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Välj språk",
     "search_placeholder": "Sök språk…",
-    "no_match": "Inget språk matchar."
+    "no_match": "Inget språk matchar.",
+    "clear_search": "Rensa sökning"
   }
 }

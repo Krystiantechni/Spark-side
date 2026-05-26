@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "选择语言",
     "search_placeholder": "搜索语言…",
-    "no_match": "没有匹配的语言。"
+    "no_match": "没有匹配的语言。",
+    "clear_search": "清除搜索"
   }
 }

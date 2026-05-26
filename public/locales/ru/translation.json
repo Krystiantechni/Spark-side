@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Выбрать язык",
     "search_placeholder": "Поиск языка…",
-    "no_match": "Ни одного языка не найдено."
+    "no_match": "Ни одного языка не найдено.",
+    "clear_search": "Очистить поиск"
   }
 }

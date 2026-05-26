@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "भाषा चुनें",
     "search_placeholder": "भाषा खोजें…",
-    "no_match": "कोई मिलान नहीं।"
+    "no_match": "कोई मिलान नहीं।",
+    "clear_search": "खोज साफ़ करें"
   }
 }

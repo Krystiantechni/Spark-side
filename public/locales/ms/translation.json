@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Pilih bahasa",
     "search_placeholder": "Cari bahasa…",
-    "no_match": "Tiada padanan."
+    "no_match": "Tiada padanan.",
+    "clear_search": "Kosongkan carian"
   }
 }

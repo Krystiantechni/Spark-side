@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "언어 선택",
     "search_placeholder": "언어 검색…",
-    "no_match": "일치하는 언어 없음."
+    "no_match": "일치하는 언어 없음.",
+    "clear_search": "검색 지우기"
   }
 }

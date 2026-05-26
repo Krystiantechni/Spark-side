@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Chagua lugha",
     "search_placeholder": "Tafuta lugha…",
-    "no_match": "Hakuna kinacholingana."
+    "no_match": "Hakuna kinacholingana.",
+    "clear_search": "Futa utafutaji"
   }
 }

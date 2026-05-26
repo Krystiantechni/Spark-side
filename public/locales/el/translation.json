@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Επίλεξε γλώσσα",
     "search_placeholder": "Αναζήτηση γλώσσας…",
-    "no_match": "Κανένα αποτέλεσμα."
+    "no_match": "Κανένα αποτέλεσμα.",
+    "clear_search": "Καθαρισμός αναζήτησης"
   }
 }

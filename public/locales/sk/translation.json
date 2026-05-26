@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Vyber jazyk",
     "search_placeholder": "Hľadať jazyk…",
-    "no_match": "Žiadna zhoda."
+    "no_match": "Žiadna zhoda.",
+    "clear_search": "Vymazať vyhľadávanie"
   }
 }

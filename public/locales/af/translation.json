@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Kies taal",
     "search_placeholder": "Soek taal…",
-    "no_match": "Geen passing nie."
+    "no_match": "Geen passing nie.",
+    "clear_search": "Vee soektog uit"
   }
 }

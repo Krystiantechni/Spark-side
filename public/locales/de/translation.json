@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Sprache wählen",
     "search_placeholder": "Sprache suchen…",
-    "no_match": "Keine Sprache gefunden."
+    "no_match": "Keine Sprache gefunden.",
+    "clear_search": "Suche löschen"
   }
 }

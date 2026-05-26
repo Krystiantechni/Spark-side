@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Vyber jazyk",
     "search_placeholder": "Hledat jazyk…",
-    "no_match": "Žádná shoda."
+    "no_match": "Žádná shoda.",
+    "clear_search": "Vymazat hledání"
   }
 }

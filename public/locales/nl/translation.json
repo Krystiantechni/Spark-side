@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Kies taal",
     "search_placeholder": "Zoek taal…",
-    "no_match": "Geen taal gevonden."
+    "no_match": "Geen taal gevonden.",
+    "clear_search": "Zoekopdracht wissen"
   }
 }

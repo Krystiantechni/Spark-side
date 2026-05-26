@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Agħżel lingwa",
     "search_placeholder": "Fittex lingwa…",
-    "no_match": "L-ebda riżultat."
+    "no_match": "L-ebda riżultat.",
+    "clear_search": "Naddaf it-tfittxija"
   }
 }

@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Válassz nyelvet",
     "search_placeholder": "Nyelv keresése…",
-    "no_match": "Nincs találat."
+    "no_match": "Nincs találat.",
+    "clear_search": "Keresés törlése"
   }
 }

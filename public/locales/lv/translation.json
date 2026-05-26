@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Izvēlies valodu",
     "search_placeholder": "Meklēt valodu…",
-    "no_match": "Nav rezultātu."
+    "no_match": "Nav rezultātu.",
+    "clear_search": "Notīrīt meklēšanu"
   }
 }

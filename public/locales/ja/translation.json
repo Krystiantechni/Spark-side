@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "言語を選択",
     "search_placeholder": "言語を検索…",
-    "no_match": "一致する言語がありません。"
+    "no_match": "一致する言語がありません。",
+    "clear_search": "検索をクリア"
   }
 }

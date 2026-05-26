@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Odaberi jezik",
     "search_placeholder": "Traži jezik…",
-    "no_match": "Nema podudaranja."
+    "no_match": "Nema podudaranja.",
+    "clear_search": "Očisti pretragu"
   }
 }

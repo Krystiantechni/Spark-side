@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Valitse kieli",
     "search_placeholder": "Etsi kieli…",
-    "no_match": "Ei osumia."
+    "no_match": "Ei osumia.",
+    "clear_search": "Tyhjennä haku"
   }
 }

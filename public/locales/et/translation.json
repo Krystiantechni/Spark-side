@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Vali keel",
     "search_placeholder": "Otsi keelt…",
-    "no_match": "Vasteid pole."
+    "no_match": "Vasteid pole.",
+    "clear_search": "Tühjenda otsing"
   }
 }

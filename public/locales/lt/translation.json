@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "Pasirink kalbą",
     "search_placeholder": "Ieškoti kalbos…",
-    "no_match": "Atitikmenų nėra."
+    "no_match": "Atitikmenų nėra.",
+    "clear_search": "Išvalyti paiešką"
   }
 }

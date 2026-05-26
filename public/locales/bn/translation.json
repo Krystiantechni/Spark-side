@@ -53,6 +53,7 @@
   "language_switcher": {
     "label": "ভাষা বেছে নিন",
     "search_placeholder": "ভাষা খুঁজুন…",
-    "no_match": "কোনো মিল নেই।"
+    "no_match": "কোনো মিল নেই।",
+    "clear_search": "অনুসন্ধান মুছুন"
   }
 }
