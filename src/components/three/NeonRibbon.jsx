@@ -88,7 +88,7 @@ const fragmentShader = /* glsl */ `
     vec2 uv = vUv;
     vec3 col = vec3(0.0);
 
-    const int NUM_STRANDS = 24;
+    const int NUM_STRANDS = 16;
     float invN = 1.0 / float(NUM_STRANDS);
 
     // === mouse driver ===
@@ -131,27 +131,27 @@ const fragmentShader = /* glsl */ `
       float y = baseY + sin(uv.x * waveFreq + wavePhase) * waveAmp
                       + sin(uv.x * waveFreq * 1.7 + wavePhase * 0.6) * waveAmp * 0.4;
 
-      // grubość — niektóre cienkie, niektóre średnie
-      float thickness = 0.004 + r2 * 0.012;
+      // CIENKIE linie — jak SVG stroke-width 1-3 (a nie szerokie smugi)
+      float thickness = 0.0008 + r2 * 0.0022;
 
       // distance od piksela do centrum włókna
       float d = abs(uv.y - y);
 
-      // === core + halo: prawdziwy neon look ===
-      // CORE — ostre, jasne, wąskie pasmo (1/3 grubości)
-      float core = smoothstep(thickness * 0.35, 0.0, d);
-      // HALO — szeroki miękki glow wokół (3× thickness)
-      float halo = smoothstep(thickness * 3.2, thickness * 0.4, d);
-      float intensity = core * 1.8 + halo * 0.5;
+      // === ostry rdzeń + mały halo (jak SVG path z gaussian blur filter) ===
+      // CORE — pixel-thin sharp line
+      float core = smoothstep(thickness, thickness * 0.2, d);
+      // HALO — subtle glow ~6× thickness, niska intensywność
+      float halo = smoothstep(thickness * 6.0, thickness, d);
+      float intensity = core * 2.2 + halo * 0.25;
 
-      // jasność moduluje wzdłuż X — daje "motion blur" / przepływ.
-      // Wyższy floor (0.75) żeby włókna były wyraźne na całej długości, nie znikały.
-      float brightWave = 0.75
-        + sin(uv.x * (3.0 + r1 * 3.0) + uTime * (0.4 + r3 * 0.3) + fi * 0.7) * 0.25;
+      // jasność moduluje wzdłuż X — ale subtelnie (floor 0.85, range 0.15)
+      // żeby linie były jednolicie wyraźne, nie pulsowały
+      float brightWave = 0.85
+        + sin(uv.x * (3.0 + r1 * 3.0) + uTime * (0.4 + r3 * 0.3) + fi * 0.7) * 0.15;
 
-      // strandStrength — wszystkie włókna mocno widoczne (floor 0.7 zamiast 0.4)
-      // + boost intensywności blisko kursora (glow follows mouse, mocniej przy hold)
-      float strandStrength = (0.7 + r2 * 0.55)
+      // strandStrength — wszystkie linie pełne (floor 1.0)
+      // + boost przy kursorze
+      float strandStrength = (1.0 + r2 * 0.3)
         * (1.0 + mouseInfluence * (0.6 + uHold * 1.2));
 
       vec3 sc = strandColor(i);
