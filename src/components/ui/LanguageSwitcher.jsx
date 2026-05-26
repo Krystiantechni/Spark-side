@@ -88,7 +88,7 @@ export default function LanguageSwitcher({ className = "" }) {
                 type="button"
                 onClick={() => setQuery("")}
                 className="absolute right-6 top-1/2 -translate-y-1/2 text-ink-300 hover:text-ink-50"
-                aria-label="Clear search"
+                aria-label={t("language_switcher.clear_search", "Clear search")}
               >
                 <X size={14} />
               </button>
