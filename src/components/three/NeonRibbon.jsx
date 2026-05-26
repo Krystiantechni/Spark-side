@@ -88,7 +88,7 @@ const fragmentShader = /* glsl */ `
     vec2 uv = vUv;
     vec3 col = vec3(0.0);
 
-    const int NUM_STRANDS = 16;
+    const int NUM_STRANDS = 13;
     float invN = 1.0 / float(NUM_STRANDS);
 
     // === mouse driver ===
