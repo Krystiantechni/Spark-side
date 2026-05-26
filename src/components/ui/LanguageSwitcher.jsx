@@ -95,8 +95,8 @@ export default function LanguageSwitcher({ className = "" }) {
             )}
           </div>
 
-          {/* Lista pogrupowana */}
-          <div className="max-h-80 overflow-y-auto">
+          {/* Lista pogrupowana — data-lenis-prevent żeby smooth-scroll nie hijackował kółka */}
+          <div className="max-h-80 overflow-y-auto" data-lenis-prevent>
             {Object.entries(grouped).map(([region, items]) => (
               <div key={region} className="border-b border-ink-500/20 last:border-b-0">
                 <p className="sticky top-0 z-10 bg-ink-700/95 px-4 py-2 font-mono text-[10px] uppercase tracking-[0.3em] text-ink-300 backdrop-blur-sm">
