@@ -17,7 +17,7 @@ export default function Hero() {
   });
 
   return (
-    <section className="relative min-h-screen overflow-hidden bg-ink-700">
+    <section className="relative min-h-screen select-none overflow-hidden bg-ink-700">
       <div className="absolute inset-0 bg-aurora" />
       <div className="absolute inset-0 bg-grid bg-grid-lg opacity-[0.06]" />
       <Suspense fallback={null}>
