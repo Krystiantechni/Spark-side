@@ -132,22 +132,26 @@ const fragmentShader = /* glsl */ `
                       + sin(uv.x * waveFreq * 1.7 + wavePhase * 0.6) * waveAmp * 0.4;
 
       // grubość — niektóre cienkie, niektóre średnie
-      float thickness = 0.0035 + r2 * 0.013;
+      float thickness = 0.004 + r2 * 0.012;
 
       // distance od piksela do centrum włókna
       float d = abs(uv.y - y);
 
-      // soft Gaussian-like falloff (smoothstep dla wydajności)
-      float intensity = smoothstep(thickness, 0.0, d);
+      // === core + halo: prawdziwy neon look ===
+      // CORE — ostre, jasne, wąskie pasmo (1/3 grubości)
+      float core = smoothstep(thickness * 0.35, 0.0, d);
+      // HALO — szeroki miękki glow wokół (3× thickness)
+      float halo = smoothstep(thickness * 3.2, thickness * 0.4, d);
+      float intensity = core * 1.8 + halo * 0.5;
 
-      // jasność moduluje wzdłuż X — daje "motion blur" / przepływ
-      float brightWave = 0.55
-        + sin(uv.x * (3.0 + r1 * 3.0) + uTime * (0.4 + r3 * 0.3) + fi * 0.7) * 0.45;
-      brightWave = max(brightWave, 0.15);
+      // jasność moduluje wzdłuż X — daje "motion blur" / przepływ.
+      // Wyższy floor (0.75) żeby włókna były wyraźne na całej długości, nie znikały.
+      float brightWave = 0.75
+        + sin(uv.x * (3.0 + r1 * 3.0) + uTime * (0.4 + r3 * 0.3) + fi * 0.7) * 0.25;
 
-      // dla większej różnorodności — niektóre włókna jaśniejsze, niektóre subtle
+      // strandStrength — wszystkie włókna mocno widoczne (floor 0.7 zamiast 0.4)
       // + boost intensywności blisko kursora (glow follows mouse, mocniej przy hold)
-      float strandStrength = (0.4 + r2 * 0.85)
+      float strandStrength = (0.7 + r2 * 0.55)
         * (1.0 + mouseInfluence * (0.6 + uHold * 1.2));
 
       vec3 sc = strandColor(i);
