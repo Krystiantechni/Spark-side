@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { Globe, Search, Check, X } from "lucide-react";
+import { Search, Check, X } from "lucide-react";
 import { LOCALES, getLocale } from "../../i18n/locales";
 
 // Dropdown wyboru języka — 40 języków pogrupowanych po regionie + search.
@@ -60,7 +60,6 @@ export default function LanguageSwitcher({ className = "" }) {
         className="inline-flex items-center gap-2 rounded-full border border-ink-400/50 bg-ink-700/60 px-4 py-2 text-sm font-semibold text-ink-50 backdrop-blur-sm transition-colors hover:border-accent-300 hover:text-accent-300 focus:outline-none"
         aria-label={t("language_switcher.label", "Choose language")}
       >
-        <Globe size={14} strokeWidth={2} />
         <span className="text-base leading-none">{current.flag}</span>
         <span className="hidden sm:inline">{current.native}</span>
       </button>
