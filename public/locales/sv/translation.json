@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio för ett nytt decennium",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Vi bygger sajter som folk inte bara scrollar förbi — de stannar upp och <0>tittar en gång till</0>.",
+    "cta_primary": "Kör igång",
+    "cta_secondary": "Se portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Vad du får",
+    "title": "En modern stack",
+    "title_accent": "utan kompromiss",
+    "subtitle": "Varje element är genomtänkt. Från animationer till typografi — allt har sin plats och sin funktion.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrorörelser överallt",
+        "desc": "Varje hover, scroll och klick har sin egen animation. Sajten känns aldrig statisk."
+      },
+      "three_d": {
+        "title": "3D utan kompromiss",
+        "desc": "Lätta Three.js-scener (<200KB) med lazy-loading. Mjukt även på en medelbra laptop."
+      },
+      "performance": {
+        "title": "Performance först",
+        "desc": "Lighthouse 95+. Build-chunks under 500KB. Lazy bilder, preloadade fonter, GPU-animationer."
+      },
+      "typography": {
+        "title": "Typografi i 4 fonter",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatisk hierarki från 220px hero till 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Levererade projekt",
+    "satisfaction": "Kunder med en andra brief",
+    "load_time": "Snitt Largest Contentful Paint",
+    "fps": "FPS på en medelbra laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Din tur",
+    "title_line1": "Bygg en sajt",
+    "title_line2": "de avundas.",
+    "subtitle": "Sätt upp projektet på 30 sekunder, säg åt Claude vad du vill ha, få <0>en produktionsklar sajt</0> på en timme.",
+    "cta_primary": "Starta nu",
+    "cta_secondary": "Snacka med oss"
+  },
+  "footer": {
+    "tagline": "Gjord med omsorg — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Välj språk",
+    "search_placeholder": "Sök språk…",
+    "no_match": "Inget språk matchar."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Студія для нового десятиліття",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Ми робимо сайти, повз які не прокручують — вони змушують зупинитися та <0>подивитися ще раз</0>.",
+    "cta_primary": "Починаємо",
+    "cta_secondary": "Дивитися портфоліо",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Що ви отримуєте",
+    "title": "Сучасний стек",
+    "title_accent": "без компромісів",
+    "subtitle": "Кожен елемент сайту продуманий. Від анімацій до типографіки — все на своєму місці зі своєю метою.",
+    "items": {
+      "micro_motion": {
+        "title": "Мікро-рухи всюди",
+        "desc": "Кожен ховер, скрол і клік має власну анімацію. Сайт ніколи не виглядає статичним."
+      },
+      "three_d": {
+        "title": "3D без компромісів",
+        "desc": "Легкі Three.js сцени (<200KB) з lazy-loading. Плавно працює навіть на ноутбуках середнього класу."
+      },
+      "performance": {
+        "title": "Продуктивність перш за все",
+        "desc": "Lighthouse 95+. Build-чанки під 500KB. Lazy-зображення, preload шрифтів, GPU-анімації."
+      },
+      "typography": {
+        "title": "Типографіка з 4 шрифтів",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — драматична ієрархія від 220px hero до 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Зданих проєктів",
+    "satisfaction": "Клієнтів повертаються з другим брифом",
+    "load_time": "Середній Largest Contentful Paint",
+    "fps": "FPS на ноутбуці середнього класу"
+  },
+  "cta": {
+    "eyebrow": "◆ Ваш хід",
+    "title_line1": "Зробіть сайт,",
+    "title_line2": "якому заздритимуть.",
+    "subtitle": "Налаштуйте проєкт за 30 секунд, скажіть Claude що хочете, отримайте <0>сайт готовий до продакшену</0> за годину.",
+    "cta_primary": "Почати зараз",
+    "cta_secondary": "Поговорити з нами"
+  },
+  "footer": {
+    "tagline": "Зроблено з турботою — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Вибрати мову",
+    "search_placeholder": "Пошук мови…",
+    "no_match": "Жодної мови не знайдено."
+  }
+}

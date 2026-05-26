@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio for et nytt tiår",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Vi bygger sider folk ikke bare scroller forbi — de stopper og <0>ser en gang til</0>.",
+    "cta_primary": "Vi starter",
+    "cta_secondary": "Se portefølje",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Hva du får",
+    "title": "En moderne stack",
+    "title_accent": "uten kompromiss",
+    "subtitle": "Hvert element er gjennomtenkt. Fra animasjoner til typografi — alt har sin plass og funksjon.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrobevegelse overalt",
+        "desc": "Hver hover, scroll og klikk har sin egen animasjon. Siden føles aldri statisk."
+      },
+      "three_d": {
+        "title": "3D uten kompromiss",
+        "desc": "Lette Three.js-scener (<200KB) med lazy-loading. Smidig selv på en middels laptop."
+      },
+      "performance": {
+        "title": "Performance først",
+        "desc": "Lighthouse 95+. Build chunks under 500KB. Lazy bilder, preloadede fonter, GPU-animasjoner."
+      },
+      "typography": {
+        "title": "Typografi i 4 fonter",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatisk hierarki fra 220px hero ned til 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Leverte prosjekter",
+    "satisfaction": "Kunder med ny brief",
+    "load_time": "Snitt Largest Contentful Paint",
+    "fps": "FPS på en middels laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Din tur",
+    "title_line1": "Lag en side,",
+    "title_line2": "de vil misunne.",
+    "subtitle": "Sett opp prosjektet på 30 sekunder, fortell Claude hva du vil, få <0>en produksjonsklar side</0> på en time.",
+    "cta_primary": "Start nå",
+    "cta_secondary": "Snakk med oss"
+  },
+  "footer": {
+    "tagline": "Laget med omhu — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Velg språk",
+    "search_placeholder": "Søk språk…",
+    "no_match": "Ingen treff."
+  }
+}

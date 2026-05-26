@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Stiúideo do dheich mbliana nua",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Tógaimid suíomhanna nach scrollálann daoine thar — stadann siad agus <0>féachann arís</0>.",
+    "cta_primary": "Tosaímis",
+    "cta_secondary": "Féach ar an bportfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Cad a fhaigheann tú",
+    "title": "Stack nua-aimseartha",
+    "title_accent": "gan chomhréiteach",
+    "subtitle": "Tá gach eilimint ar an suíomh smaoinithe tríd. Ó bheochan go clóghrafaíocht — tá áit agus cuspóir ag gach rud.",
+    "items": {
+      "micro_motion": {
+        "title": "Micrea-ghluaiseacht i ngach áit",
+        "desc": "Tá beochan dá chuid féin ag gach hover, scroll, agus cliceáil. Ní bhraitheann an suíomh statach riamh."
+      },
+      "three_d": {
+        "title": "3D gan chomhréiteach",
+        "desc": "Radhairc éadroma Three.js (<200KB) le lazy-loading. Rith réidh fiú ar ríomhaire glúine measartha."
+      },
+      "performance": {
+        "title": "Performance ar dtús",
+        "desc": "Lighthouse 95+. Build chunks faoi bhun 500KB. Lazy íomhánna, clónna réamhluchtaithe, beochan GPU."
+      },
+      "typography": {
+        "title": "Clóghrafaíocht i 4 chló",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — ord drámatúil ó 220px hero síos go 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Tionscadail seachadta",
+    "satisfaction": "Cliaint le brief eile",
+    "load_time": "Meán Largest Contentful Paint",
+    "fps": "FPS ar ríomhaire glúine measartha"
+  },
+  "cta": {
+    "eyebrow": "◆ Do sheal",
+    "title_line1": "Déan suíomh",
+    "title_line2": "a bheidh in éad leo.",
+    "subtitle": "Cuir an tionscadal le chéile i 30 soicind, inis do Claude cad atá uait, faigh <0>suíomh réidh don léiriú</0> in uair an chloig.",
+    "cta_primary": "Tosaigh anois",
+    "cta_secondary": "Labhair linn"
+  },
+  "footer": {
+    "tagline": "Déanta le cúram — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Roghnaigh teanga",
+    "search_placeholder": "Cuardaigh teanga…",
+    "no_match": "Gan torthaí."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio για μια νέα δεκαετία",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Φτιάχνουμε sites που δεν τα προσπερνάς με scroll — σε κάνουν να σταματήσεις και να <0>κοιτάξεις ξανά</0>.",
+    "cta_primary": "Ξεκινάμε",
+    "cta_secondary": "Δες το portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Τι παίρνεις",
+    "title": "Ένα σύγχρονο stack",
+    "title_accent": "χωρίς συμβιβασμούς",
+    "subtitle": "Κάθε στοιχείο είναι μελετημένο. Από τα animations μέχρι την τυπογραφία — όλα έχουν τη θέση και τον λόγο τους.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion παντού",
+        "desc": "Κάθε hover, scroll και click έχει δικό του animation. Το site δεν φαίνεται ποτέ στατικό."
+      },
+      "three_d": {
+        "title": "3D χωρίς συμβιβασμούς",
+        "desc": "Ελαφριές σκηνές Three.js (<200KB) με lazy-loading. Ρέει ακόμα και σε μέτριο laptop."
+      },
+      "performance": {
+        "title": "Performance πάνω απ' όλα",
+        "desc": "Lighthouse 95+. Build chunks κάτω από 500KB. Lazy εικόνες, preload fonts, GPU animations."
+      },
+      "typography": {
+        "title": "Τυπογραφία σε 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — δραματική ιεραρχία από 220px hero μέχρι 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Έργα που παραδόθηκαν",
+    "satisfaction": "Πελάτες που επιστρέφουν με νέο brief",
+    "load_time": "Μέσο Largest Contentful Paint",
+    "fps": "FPS σε μέτριο laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Σειρά σου",
+    "title_line1": "Φτιάξε ένα site",
+    "title_line2": "που θα ζηλέψουν.",
+    "subtitle": "Στήσε το project σε 30 δευτερόλεπτα, πες στον Claude τι θέλεις, πάρε <0>ένα έτοιμο για production site</0> σε μία ώρα.",
+    "cta_primary": "Ξεκίνα τώρα",
+    "cta_secondary": "Πες μας"
+  },
+  "footer": {
+    "tagline": "Φτιαγμένο με φροντίδα — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Επίλεξε γλώσσα",
+    "search_placeholder": "Αναζήτηση γλώσσας…",
+    "no_match": "Κανένα αποτέλεσμα."
+  }
+}

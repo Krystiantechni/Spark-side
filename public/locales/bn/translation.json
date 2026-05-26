@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ নতুন দশকের স্টুডিও",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "আমরা এমন সাইট বানাই যেগুলো মানুষ এড়িয়ে যায় না — তারা থামে আর <0>আবার তাকায়</0>।",
+    "cta_primary": "শুরু করি",
+    "cta_secondary": "পোর্টফোলিও দেখুন",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ আপনি যা পাবেন",
+    "title": "একটি আধুনিক stack",
+    "title_accent": "কোনো আপস ছাড়াই",
+    "subtitle": "সাইটের প্রতিটি উপাদান চিন্তা করে তৈরি। অ্যানিমেশন থেকে টাইপোগ্রাফি — সব কিছুর জায়গা আর উদ্দেশ্য আছে।",
+    "items": {
+      "micro_motion": {
+        "title": "সর্বত্র মাইক্রো-মোশন",
+        "desc": "প্রতিটি hover, scroll আর click-এর নিজস্ব অ্যানিমেশন। সাইট কখনো স্ট্যাটিক মনে হয় না।"
+      },
+      "three_d": {
+        "title": "আপসহীন 3D",
+        "desc": "হালকা Three.js সিন (<200KB) lazy-loading সহ। মাঝারি ল্যাপটপেও মসৃণ চলে।"
+      },
+      "performance": {
+        "title": "Performance প্রথমে",
+        "desc": "Lighthouse 95+. Build chunks 500KB-এর নিচে। Lazy images, preload fonts, GPU animations।"
+      },
+      "typography": {
+        "title": "4 fonts-এ টাইপোগ্রাফি",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — 220px hero থেকে 14px caption পর্যন্ত নাটকীয় হায়ারার্কি।"
+      }
+    }
+  },
+  "stats": {
+    "projects": "ডেলিভার করা প্রজেক্ট",
+    "satisfaction": "নতুন brief নিয়ে ফেরা ক্লায়েন্ট",
+    "load_time": "গড় Largest Contentful Paint",
+    "fps": "মাঝারি ল্যাপটপে FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ এবার আপনার পালা",
+    "title_line1": "এমন সাইট বানান",
+    "title_line2": "যাকে সবাই হিংসা করবে।",
+    "subtitle": "30 সেকেন্ডে প্রজেক্ট সেট করুন, Claude-কে বলুন কী চাই, এক ঘণ্টায় পান <0>production-ready সাইট</0>।",
+    "cta_primary": "এখনই শুরু",
+    "cta_secondary": "আমাদের সাথে কথা বলুন"
+  },
+  "footer": {
+    "tagline": "যত্ন দিয়ে তৈরি — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "ভাষা বেছে নিন",
+    "search_placeholder": "ভাষা খুঁজুন…",
+    "no_match": "কোনো মিল নেই।"
+  }
+}

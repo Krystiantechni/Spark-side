@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio vir 'n nuwe dekade",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Ons bou werwe waarby mense nie net verby scroll nie — hulle stop en <0>kyk weer</0>.",
+    "cta_primary": "Kom ons begin",
+    "cta_secondary": "Sien portefeulje",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Wat jy kry",
+    "title": "'n Moderne stack",
+    "title_accent": "sonder kompromis",
+    "subtitle": "Elke element van die werf is deurdink. Van animasies tot tipografie — alles het sy plek en doel.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikro-beweging oral",
+        "desc": "Elke hover, scroll en kliek het sy eie animasie. Die werf voel nooit staties nie."
+      },
+      "three_d": {
+        "title": "3D sonder kompromis",
+        "desc": "Ligte Three.js-tonele (<200KB) met lazy-loading. Glad selfs op 'n mid-range skootrekenaar."
+      },
+      "performance": {
+        "title": "Performance eerste",
+        "desc": "Lighthouse 95+. Build chunks onder 500KB. Lazy beelde, preloaded fonts, GPU-animasies."
+      },
+      "typography": {
+        "title": "Tipografie in 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatiese hiërargie van 220px hero tot 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projekte gelewer",
+    "satisfaction": "Kliënte met 'n tweede brief",
+    "load_time": "Gem. Largest Contentful Paint",
+    "fps": "FPS op 'n mid-range skootrekenaar"
+  },
+  "cta": {
+    "eyebrow": "◆ Jou beurt",
+    "title_line1": "Maak 'n werf",
+    "title_line2": "wat hulle sal beny.",
+    "subtitle": "Stel die projek op in 30 sekondes, vertel Claude wat jy wil hê, kry <0>'n produksiegerede werf</0> binne 'n uur.",
+    "cta_primary": "Begin nou",
+    "cta_secondary": "Praat met ons"
+  },
+  "footer": {
+    "tagline": "Met sorg gemaak — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Kies taal",
+    "search_placeholder": "Soek taal…",
+    "no_match": "Geen passing nie."
+  }
+}

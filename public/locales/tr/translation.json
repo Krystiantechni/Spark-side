@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Yeni bir on yıl için stüdyo",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Ziyaretçinin kaydırıp geçmediği siteler kuruyoruz — durup <0>bir kez daha bakıyorlar</0>.",
+    "cta_primary": "Başlayalım",
+    "cta_secondary": "Portfolyoyu gör",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ne alıyorsun",
+    "title": "Modern bir stack",
+    "title_accent": "tavizsiz",
+    "subtitle": "Sitenin her elementi düşünülmüş. Animasyondan tipografiye — her şeyin bir yeri ve görevi var.",
+    "items": {
+      "micro_motion": {
+        "title": "Her yerde mikro hareket",
+        "desc": "Her hover, scroll ve tıklama kendi animasyonuna sahip. Site asla statik hissettirmiyor."
+      },
+      "three_d": {
+        "title": "Tavizsiz 3D",
+        "desc": "Lazy-loading'li hafif Three.js sahneleri (<200KB). Orta seviye laptopta bile akıcı."
+      },
+      "performance": {
+        "title": "Önce performans",
+        "desc": "Lighthouse 95+. Build chunk'ları 500KB altında. Lazy görseller, preload fontlar, GPU animasyonlar."
+      },
+      "typography": {
+        "title": "4 fontla tipografi",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — 220px hero'dan 14px caption'a dramatik hiyerarşi."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Teslim edilen proje",
+    "satisfaction": "Yeni brief'le dönen müşteri",
+    "load_time": "Ortalama Largest Contentful Paint",
+    "fps": "Orta seviye laptopta FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ Sıra sende",
+    "title_line1": "Bir site yap,",
+    "title_line2": "kıskansınlar.",
+    "subtitle": "Projeyi 30 saniyede kur, Claude'a ne istediğini söyle, <0>yayına hazır bir siteyi</0> bir saatte al.",
+    "cta_primary": "Şimdi başla",
+    "cta_secondary": "Bizimle konuş"
+  },
+  "footer": {
+    "tagline": "Özenle yapıldı — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Dil seç",
+    "search_placeholder": "Dil ara…",
+    "no_match": "Sonuç yok."
+  }
+}

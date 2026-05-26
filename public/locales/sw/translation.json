@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio kwa muongo mpya",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Tunajenga tovuti ambazo watu hawapiti tu — wanasimama na <0>kuangalia tena</0>.",
+    "cta_primary": "Tuanze",
+    "cta_secondary": "Ona portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Unachopata",
+    "title": "Stack ya kisasa",
+    "title_accent": "bila maelewano",
+    "subtitle": "Kila kipengele cha tovuti kimefikiriwa. Kutoka animation hadi typography — kila kitu kina nafasi na lengo lake.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion kila mahali",
+        "desc": "Kila hover, scroll na click ina animation yake. Tovuti haionekani static kamwe."
+      },
+      "three_d": {
+        "title": "3D bila maelewano",
+        "desc": "Scene nyepesi za Three.js (<200KB) na lazy-loading. Inakwenda vizuri hata kwenye laptop ya kawaida."
+      },
+      "performance": {
+        "title": "Performance kwanza",
+        "desc": "Lighthouse 95+. Build chunks chini ya 500KB. Lazy images, preload fonts, GPU animations."
+      },
+      "typography": {
+        "title": "Typography ya fonts 4",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — uongozi wa kuvutia kutoka 220px hero hadi 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Miradi iliyokamilika",
+    "satisfaction": "Wateja wanaorudi na brief mpya",
+    "load_time": "Wastani wa Largest Contentful Paint",
+    "fps": "FPS kwenye laptop ya kawaida"
+  },
+  "cta": {
+    "eyebrow": "◆ Zamu yako",
+    "title_line1": "Tengeneza tovuti",
+    "title_line2": "watakayoionea wivu.",
+    "subtitle": "Sanidi mradi kwa sekunde 30, mwambie Claude unachotaka, pata <0>tovuti tayari kwa uzalishaji</0> kwa saa moja.",
+    "cta_primary": "Anza sasa",
+    "cta_secondary": "Ongea nasi"
+  },
+  "footer": {
+    "tagline": "Imeundwa kwa uangalifu — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Chagua lugha",
+    "search_placeholder": "Tafuta lugha…",
+    "no_match": "Hakuna kinacholingana."
+  }
+}

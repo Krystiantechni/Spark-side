@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio untuk dekad baharu",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Kami bina laman yang tak sekadar di-scroll lalu — orang berhenti dan <0>tengok sekali lagi</0>.",
+    "cta_primary": "Jom mula",
+    "cta_secondary": "Lihat portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Apa yang anda dapat",
+    "title": "Stack moden",
+    "title_accent": "tanpa kompromi",
+    "subtitle": "Setiap elemen laman difikirkan masak-masak. Daripada animation ke typography — semuanya ada tempat dan tujuan.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion di mana-mana",
+        "desc": "Setiap hover, scroll dan klik ada animation tersendiri. Laman tak pernah rasa statik."
+      },
+      "three_d": {
+        "title": "3D tanpa kompromi",
+        "desc": "Scene Three.js ringan (<200KB) dengan lazy-loading. Lancar walau pada laptop pertengahan."
+      },
+      "performance": {
+        "title": "Performance dulu",
+        "desc": "Lighthouse 95+. Build chunks bawah 500KB. Lazy images, preload fonts, GPU animations."
+      },
+      "typography": {
+        "title": "Typography 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — hierarki dramatik dari 220px hero hingga 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projek dihantar",
+    "satisfaction": "Klien kembali dengan brief baharu",
+    "load_time": "Purata Largest Contentful Paint",
+    "fps": "FPS pada laptop pertengahan"
+  },
+  "cta": {
+    "eyebrow": "◆ Giliran anda",
+    "title_line1": "Bina laman",
+    "title_line2": "yang dicemburui orang.",
+    "subtitle": "Sediakan projek dalam 30 saat, beritahu Claude apa anda mahu, dapatkan <0>laman sedia produksi</0> dalam sejam.",
+    "cta_primary": "Mula sekarang",
+    "cta_secondary": "Hubungi kami"
+  },
+  "footer": {
+    "tagline": "Dibina dengan teliti — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Pilih bahasa",
+    "search_placeholder": "Cari bahasa…",
+    "no_match": "Tiada padanan."
+  }
+}

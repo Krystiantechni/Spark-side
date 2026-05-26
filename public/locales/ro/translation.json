@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio pentru o nouă decadă",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Construim site-uri pe lângă care nu se trece — vizitatorul se oprește și <0>privește din nou</0>.",
+    "cta_primary": "Începem",
+    "cta_secondary": "Vezi portofoliul",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ce primești",
+    "title": "Un stack modern",
+    "title_accent": "fără compromis",
+    "subtitle": "Fiecare element este gândit. De la animații la tipografie — totul are locul și rostul lui.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion peste tot",
+        "desc": "Fiecare hover, scroll și click are animația lui. Site-ul nu pare niciodată static."
+      },
+      "three_d": {
+        "title": "3D fără compromis",
+        "desc": "Scene Three.js ușoare (<200KB) cu lazy-loading. Merge fluent chiar și pe un laptop mediu."
+      },
+      "performance": {
+        "title": "Performance pe primul loc",
+        "desc": "Lighthouse 95+. Build chunks sub 500KB. Imagini lazy, fonturi preload, animații GPU."
+      },
+      "typography": {
+        "title": "Tipografie cu 4 fonturi",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — ierarhie dramatică de la 220px hero până la 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Proiecte livrate",
+    "satisfaction": "Clienți care revin cu un nou brief",
+    "load_time": "Largest Contentful Paint mediu",
+    "fps": "FPS pe un laptop mediu"
+  },
+  "cta": {
+    "eyebrow": "◆ E rândul tău",
+    "title_line1": "Fă un site",
+    "title_line2": "pe care îl vor invidia.",
+    "subtitle": "Configurează proiectul în 30 de secunde, spune-i lui Claude ce vrei, primește <0>un site gata de producție</0> într-o oră.",
+    "cta_primary": "Începe acum",
+    "cta_secondary": "Hai să vorbim"
+  },
+  "footer": {
+    "tagline": "Făcut cu grijă — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Alege limba",
+    "search_placeholder": "Caută limba…",
+    "no_match": "Nicio potrivire."
+  }
+}

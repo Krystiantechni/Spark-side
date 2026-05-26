@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ 新しい10年のためのスタジオ",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "スクロールで通り過ぎられないサイトを作ります — 立ち止まって <0>もう一度見たくなる</0>。",
+    "cta_primary": "はじめる",
+    "cta_secondary": "ポートフォリオを見る",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ 提供するもの",
+    "title": "モダンなスタック、",
+    "title_accent": "妥協なし",
+    "subtitle": "サイトのすべての要素が考え抜かれています。アニメーションからタイポグラフィまで — すべてに居場所と目的があります。",
+    "items": {
+      "micro_motion": {
+        "title": "至るところにマイクロモーション",
+        "desc": "ホバー、スクロール、クリックのそれぞれにアニメーションがあります。サイトが静的に感じることはありません。"
+      },
+      "three_d": {
+        "title": "妥協のない 3D",
+        "desc": "軽量な Three.js シーン (<200KB) と遅延読み込み。中堅ラップトップでもスムーズに動作します。"
+      },
+      "performance": {
+        "title": "パフォーマンスファースト",
+        "desc": "Lighthouse 95+。ビルドチャンク 500KB 以下。遅延画像、フォントプリロード、GPU アニメーション。"
+      },
+      "typography": {
+        "title": "4 フォントによるタイポグラフィ",
+        "desc": "Apoc、Azonix、Quffer、Urbanist — 220px ヒーローから 14px キャプションまでのドラマチックな階層。"
+      }
+    }
+  },
+  "stats": {
+    "projects": "納品プロジェクト数",
+    "satisfaction": "2 回目のブリーフィングで戻る顧客",
+    "load_time": "平均 Largest Contentful Paint",
+    "fps": "中堅ラップトップでの FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ あなたの番",
+    "title_line1": "羨ましがられる",
+    "title_line2": "サイトを作ろう。",
+    "subtitle": "30 秒でプロジェクトを設定し、Claude に何が欲しいか伝え、1 時間で <0>本番対応サイト</0> を手に入れる。",
+    "cta_primary": "今すぐ始める",
+    "cta_secondary": "お問い合わせ"
+  },
+  "footer": {
+    "tagline": "心を込めて制作 — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "言語を選択",
+    "search_placeholder": "言語を検索…",
+    "no_match": "一致する言語がありません。"
+  }
+}

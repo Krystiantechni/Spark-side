@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio uudelle vuosikymmenelle",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Rakennamme sivuja, joiden ohi ei vain scrollata — niiden kohdalla pysähdytään ja <0>katsotaan uudestaan</0>.",
+    "cta_primary": "Aloitetaan",
+    "cta_secondary": "Katso portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Mitä saat",
+    "title": "Moderni stack",
+    "title_accent": "ilman kompromisseja",
+    "subtitle": "Jokainen elementti on harkittu. Animaatioista typografiaan — kaikella on paikkansa ja tehtävänsä.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikroliikettä joka paikassa",
+        "desc": "Jokainen hover, scroll ja klikkaus saa oman animaationsa. Sivu ei tunnu koskaan staattiselta."
+      },
+      "three_d": {
+        "title": "3D ilman kompromisseja",
+        "desc": "Kevyet Three.js-skenet (<200KB) lazy-loadingilla. Sulava jopa keskitason läppärillä."
+      },
+      "performance": {
+        "title": "Performance ennen kaikkea",
+        "desc": "Lighthouse 95+. Build chunkit alle 500KB. Lazy kuvat, preloadatut fontit, GPU-animaatiot."
+      },
+      "typography": {
+        "title": "Typografia 4 fontilla",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramaattinen hierarkia 220px herosta 14px captioniin."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Toimitettua projektia",
+    "satisfaction": "Asiakasta palaa toisen briefin kanssa",
+    "load_time": "Keskim. Largest Contentful Paint",
+    "fps": "FPS keskitason läppärillä"
+  },
+  "cta": {
+    "eyebrow": "◆ Sinun vuorosi",
+    "title_line1": "Tee sivu,",
+    "title_line2": "jota kadehditaan.",
+    "subtitle": "Pystytä projekti 30 sekunnissa, kerro Claudelle mitä haluat, saa <0>tuotantovalmis sivu</0> tunnissa.",
+    "cta_primary": "Aloita nyt",
+    "cta_secondary": "Jutellaan"
+  },
+  "footer": {
+    "tagline": "Tehty huolella — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Valitse kieli",
+    "search_placeholder": "Etsi kieli…",
+    "no_match": "Ei osumia."
+  }
+}

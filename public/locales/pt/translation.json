@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Estúdio para uma nova década",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Construímos sites que não são apenas passados ao scroll — fazem as pessoas pararem e <0>olharem novamente</0>.",
+    "cta_primary": "Vamos começar",
+    "cta_secondary": "Ver portfólio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ O que recebes",
+    "title": "Um stack moderno",
+    "title_accent": "sem compromissos",
+    "subtitle": "Cada elemento do site é pensado. Das animações à tipografia — tudo tem o seu lugar e propósito.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-movimento em todo o lado",
+        "desc": "Cada hover, scroll e clique tem a sua própria animação. O site nunca parece estático."
+      },
+      "three_d": {
+        "title": "3D sem compromissos",
+        "desc": "Cenas Three.js leves (<200KB) com lazy-loading. Funciona fluido mesmo em laptops médios."
+      },
+      "performance": {
+        "title": "Performance em primeiro lugar",
+        "desc": "Lighthouse 95+. Chunks de build abaixo de 500KB. Imagens lazy, fonts pré-carregadas, animações GPU."
+      },
+      "typography": {
+        "title": "Tipografia em 4 fontes",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — hierarquia dramática de 220px hero a 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projetos entregues",
+    "satisfaction": "Clientes que voltam com segundo brief",
+    "load_time": "Largest Contentful Paint médio",
+    "fps": "FPS em laptop médio"
+  },
+  "cta": {
+    "eyebrow": "◆ A tua vez",
+    "title_line1": "Faz um site",
+    "title_line2": "que terão inveja.",
+    "subtitle": "Configura o projeto em 30 segundos, diz ao Claude o que queres, recebe <0>um site pronto para produção</0> numa hora.",
+    "cta_primary": "Começar agora",
+    "cta_secondary": "Fala connosco"
+  },
+  "footer": {
+    "tagline": "Feito com cuidado — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Escolher idioma",
+    "search_placeholder": "Procurar idioma…",
+    "no_match": "Nenhum idioma encontrado."
+  }
+}

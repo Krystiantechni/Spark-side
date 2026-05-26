@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio za novo desetljeće",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Radimo stranice pored kojih se ne scrolla — posjetitelj stane i <0>pogleda još jednom</0>.",
+    "cta_primary": "Krećemo",
+    "cta_secondary": "Pogledaj portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Što dobivaš",
+    "title": "Moderni stack",
+    "title_accent": "bez kompromisa",
+    "subtitle": "Svaki element stranice je promišljen. Od animacija do tipografije — sve ima svoje mjesto i svrhu.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikropokret posvuda",
+        "desc": "Svaki hover, scroll i klik ima svoju animaciju. Stranica nikad ne djeluje statično."
+      },
+      "three_d": {
+        "title": "3D bez kompromisa",
+        "desc": "Lagane Three.js scene (<200KB) s lazy-loadingom. Glatko čak i na osrednjem laptopu."
+      },
+      "performance": {
+        "title": "Performance prije svega",
+        "desc": "Lighthouse 95+. Build chunks ispod 500KB. Lazy slike, preload fontovi, GPU animacije."
+      },
+      "typography": {
+        "title": "Tipografija u 4 fonta",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatična hijerarhija od 220px heroa do 14px captiona."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Isporučenih projekata",
+    "satisfaction": "Klijenata s drugim briefom",
+    "load_time": "Prosječni Largest Contentful Paint",
+    "fps": "FPS na osrednjem laptopu"
+  },
+  "cta": {
+    "eyebrow": "◆ Ti si na redu",
+    "title_line1": "Napravi stranicu",
+    "title_line2": "kojoj će zavidjeti.",
+    "subtitle": "Postavi projekt u 30 sekundi, reci Claudeu što želiš, dobij <0>stranicu spremnu za produkciju</0> u sat vremena.",
+    "cta_primary": "Kreni sad",
+    "cta_secondary": "Razgovaraj s nama"
+  },
+  "footer": {
+    "tagline": "Izrađeno s pažnjom — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Odaberi jezik",
+    "search_placeholder": "Traži jezik…",
+    "no_match": "Nema podudaranja."
+  }
+}

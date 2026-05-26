@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studju għal deċennju ġdid",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Nibnu siti li n-nies ma jiskrolljawx fihom — jieqfu u <0>jħarsu għal darb'oħra</0>.",
+    "cta_primary": "Nibdew",
+    "cta_secondary": "Ara l-portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ X'tieħu",
+    "title": "Stack modern",
+    "title_accent": "mingħajr kompromess",
+    "subtitle": "Kull element tas-sit huwa maħsub. Mill-animazzjonijiet sat-tipografija — kollox għandu postu u skop.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikro-moviment kullimkien",
+        "desc": "Kull hover, scroll u klikk għandu l-animazzjoni tiegħu. Is-sit qatt ma jidher statiku."
+      },
+      "three_d": {
+        "title": "3D mingħajr kompromess",
+        "desc": "Xeni Three.js ħfief (<200KB) b'lazy-loading. Jaħdem lixx anki fuq laptop medju."
+      },
+      "performance": {
+        "title": "Performance l-ewwel",
+        "desc": "Lighthouse 95+. Build chunks taħt 500KB. Stampi lazy, fonts preload, animazzjonijiet GPU."
+      },
+      "typography": {
+        "title": "Tipografija b'4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — ġerarkija drammatika minn 220px hero sa 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Proġetti kkonsenjati",
+    "satisfaction": "Klijenti b'brief ġdid",
+    "load_time": "Medja Largest Contentful Paint",
+    "fps": "FPS fuq laptop medju"
+  },
+  "cta": {
+    "eyebrow": "◆ Imissek int",
+    "title_line1": "Agħmel sit",
+    "title_line2": "li jgħiru bih.",
+    "subtitle": "Issetja l-proġett fi 30 sekonda, għid lil Claude x'tixtieq, akkwista <0>sit lest għall-produzzjoni</0> f'siegħa.",
+    "cta_primary": "Ibda issa",
+    "cta_secondary": "Kellimna"
+  },
+  "footer": {
+    "tagline": "Maħdum bil-galbu — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Agħżel lingwa",
+    "search_placeholder": "Fittex lingwa…",
+    "no_match": "L-ebda riżultat."
+  }
+}

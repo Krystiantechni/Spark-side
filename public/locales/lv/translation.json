@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studija jaunajai desmitgadei",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Veidojam vietnes, kurām nevar paskrollēt garām — apmeklētājs apstājas un <0>paskatās vēlreiz</0>.",
+    "cta_primary": "Sāksim",
+    "cta_secondary": "Skatīt portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ko tu iegūsi",
+    "title": "Mūsdienīgs stack",
+    "title_accent": "bez kompromisiem",
+    "subtitle": "Katrs vietnes elements ir pārdomāts. No animācijām līdz tipogrāfijai — visam ir sava vieta un jēga.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrokustība visur",
+        "desc": "Katram hover, skrollam un klikam ir sava animācija. Vietne nekad nav statiska."
+      },
+      "three_d": {
+        "title": "3D bez kompromisiem",
+        "desc": "Vieglas Three.js ainas (<200KB) ar lazy-loading. Plūstoši pat uz vidējas klēpjdatora."
+      },
+      "performance": {
+        "title": "Performance pirmajā vietā",
+        "desc": "Lighthouse 95+. Build chunks zem 500KB. Lazy attēli, preload fonti, GPU animācijas."
+      },
+      "typography": {
+        "title": "Tipogrāfija ar 4 fontiem",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatiska hierarhija no 220px hero līdz 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Piegādātu projektu",
+    "satisfaction": "Klientu ar atkārtotu brīfu",
+    "load_time": "Vid. Largest Contentful Paint",
+    "fps": "FPS uz vidējas klēpjdatora"
+  },
+  "cta": {
+    "eyebrow": "◆ Tava kārta",
+    "title_line1": "Uztaisi vietni,",
+    "title_line2": "kuru apskaudīs.",
+    "subtitle": "Uzstādi projektu 30 sekundēs, pasaki Claude ko gribi, saņem <0>produkcijai gatavu vietni</0> stundā.",
+    "cta_primary": "Sāc tagad",
+    "cta_secondary": "Parunāsim"
+  },
+  "footer": {
+    "tagline": "Veidots ar rūpību — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Izvēlies valodu",
+    "search_placeholder": "Meklēt valodu…",
+    "no_match": "Nav rezultātu."
+  }
+}

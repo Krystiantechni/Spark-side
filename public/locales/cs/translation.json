@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio pro novou dekádu",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Stavíme weby tak, aby je návštěvník nepřescrolloval — zastavil se a <0>podíval se znovu</0>.",
+    "cta_primary": "Jdeme na to",
+    "cta_secondary": "Portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Co dostaneš",
+    "title": "Moderní stack",
+    "title_accent": "bez kompromisů",
+    "subtitle": "Každý prvek webu má smysl. Od animací po typografii — všechno má své místo a funkci.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikropohyb všude",
+        "desc": "Každý hover, scroll i klik má vlastní animaci. Stránka nikdy nepůsobí staticky."
+      },
+      "three_d": {
+        "title": "3D bez kompromisů",
+        "desc": "Lehké Three.js scény (<200KB) s lazy-loadingem. Plynulé i na průměrném notebooku."
+      },
+      "performance": {
+        "title": "Performance na prvním místě",
+        "desc": "Lighthouse 95+. Build chunky pod 500KB. Lazy obrázky, preload fontů, GPU animace."
+      },
+      "typography": {
+        "title": "Typografie ve 4 fontech",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatická hierarchie od 220px hero po 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Dodaných projektů",
+    "satisfaction": "Klientů s druhým briefem",
+    "load_time": "Průměrný Largest Contentful Paint",
+    "fps": "FPS na průměrném notebooku"
+  },
+  "cta": {
+    "eyebrow": "◆ Jsi na řadě",
+    "title_line1": "Postav web,",
+    "title_line2": "který budou závidět.",
+    "subtitle": "Nastav projekt za 30 sekund, řekni Claudovi co chceš, dostaň <0>web připravený na produkci</0> za hodinu.",
+    "cta_primary": "Začít teď",
+    "cta_secondary": "Pojďme si promluvit"
+  },
+  "footer": {
+    "tagline": "Vytvořeno s péčí — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Vyber jazyk",
+    "search_placeholder": "Hledat jazyk…",
+    "no_match": "Žádná shoda."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio pour une nouvelle décennie",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "On crée des sites qui ne se laissent pas dépasser — ils font s'arrêter et <0>regarder à nouveau</0>.",
+    "cta_primary": "C'est parti",
+    "cta_secondary": "Voir le portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ce que vous obtenez",
+    "title": "Une stack moderne",
+    "title_accent": "sans compromis",
+    "subtitle": "Chaque élément du site est pensé. Des animations à la typographie — tout a sa place et son rôle.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-animations partout",
+        "desc": "Chaque survol, scroll et clic a sa propre animation. Le site ne semble jamais figé."
+      },
+      "three_d": {
+        "title": "3D sans compromis",
+        "desc": "Scènes Three.js légères (<200KB) avec lazy-loading. Fluide même sur un laptop moyen."
+      },
+      "performance": {
+        "title": "Performance avant tout",
+        "desc": "Lighthouse 95+. Chunks de build sous 500KB. Images lazy, fonts préchargées, animations GPU."
+      },
+      "typography": {
+        "title": "Typographie en 4 polices",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — hiérarchie dramatique de 220px hero à 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projets livrés",
+    "satisfaction": "Clients revenus pour un second brief",
+    "load_time": "Largest Contentful Paint moyen",
+    "fps": "FPS sur laptop moyen"
+  },
+  "cta": {
+    "eyebrow": "◆ À votre tour",
+    "title_line1": "Faites un site",
+    "title_line2": "qu'ils envieront.",
+    "subtitle": "Configurez le projet en 30 secondes, dites à Claude ce que vous voulez, recevez <0>un site prêt pour la production</0> en une heure.",
+    "cta_primary": "Commencer",
+    "cta_secondary": "Parlez-nous"
+  },
+  "footer": {
+    "tagline": "Fait avec soin — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Choisir la langue",
+    "search_placeholder": "Rechercher une langue…",
+    "no_match": "Aucune langue trouvée."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio voor een nieuw decennium",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "We bouwen sites waar bezoekers niet langs scrollen — ze stoppen en <0>kijken nog eens</0>.",
+    "cta_primary": "We beginnen",
+    "cta_secondary": "Bekijk portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Wat je krijgt",
+    "title": "Een moderne stack",
+    "title_accent": "zonder compromis",
+    "subtitle": "Elk element van de site is doordacht. Van animaties tot typografie — alles heeft een plek en een doel.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion overal",
+        "desc": "Elke hover, scroll en klik heeft een eigen animatie. De site voelt nooit statisch."
+      },
+      "three_d": {
+        "title": "3D zonder compromis",
+        "desc": "Lichte Three.js-scènes (<200KB) met lazy-loading. Soepel zelfs op een midrange laptop."
+      },
+      "performance": {
+        "title": "Performance eerst",
+        "desc": "Lighthouse 95+. Build chunks onder 500KB. Lazy images, preloaded fonts, GPU-animaties."
+      },
+      "typography": {
+        "title": "Typografie in 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatische hiërarchie van 220px hero tot 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Opgeleverde projecten",
+    "satisfaction": "Klanten met een tweede brief",
+    "load_time": "Gemiddelde Largest Contentful Paint",
+    "fps": "FPS op een midrange laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Jouw beurt",
+    "title_line1": "Maak een site",
+    "title_line2": "die ze willen kopiëren.",
+    "subtitle": "Zet het project in 30 seconden op, vertel Claude wat je wilt, krijg <0>een productieklare site</0> binnen een uur.",
+    "cta_primary": "Nu starten",
+    "cta_secondary": "Praat met ons"
+  },
+  "footer": {
+    "tagline": "Met zorg gemaakt — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Kies taal",
+    "search_placeholder": "Zoek taal…",
+    "no_match": "Geen taal gevonden."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio za novo desetletje",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Gradimo strani, mimo katerih se ne scrollajo — obiskovalec se ustavi in <0>še enkrat pogleda</0>.",
+    "cta_primary": "Začnimo",
+    "cta_secondary": "Poglej portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Kaj dobiš",
+    "title": "Sodoben stack",
+    "title_accent": "brez kompromisov",
+    "subtitle": "Vsak element strani je premišljen. Od animacij do tipografije — vse ima svoje mesto in namen.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrogib povsod",
+        "desc": "Vsak hover, scroll in klik ima svojo animacijo. Stran nikoli ni statična."
+      },
+      "three_d": {
+        "title": "3D brez kompromisov",
+        "desc": "Lahke Three.js scene (<200KB) z lazy-loadingom. Gladko tudi na srednjem laptopu."
+      },
+      "performance": {
+        "title": "Performance na prvem mestu",
+        "desc": "Lighthouse 95+. Build chunks pod 500KB. Lazy slike, preload fonti, GPU animacije."
+      },
+      "typography": {
+        "title": "Tipografija s 4 fonti",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatična hierarhija od 220px hero do 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Dostavljenih projektov",
+    "satisfaction": "Strank z novim briefom",
+    "load_time": "Povprečen Largest Contentful Paint",
+    "fps": "FPS na srednjem laptopu"
+  },
+  "cta": {
+    "eyebrow": "◆ Ti si na vrsti",
+    "title_line1": "Naredi stran,",
+    "title_line2": "ki ji bodo zavidali.",
+    "subtitle": "Nastavi projekt v 30 sekundah, povej Claudeu kaj želiš, dobi <0>stran pripravljeno za produkcijo</0> v eni uri.",
+    "cta_primary": "Začni zdaj",
+    "cta_secondary": "Pogovorimo se"
+  },
+  "footer": {
+    "tagline": "Izdelano s skrbjo — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Izberi jezik",
+    "search_placeholder": "Išči jezik…",
+    "no_match": "Ni zadetkov."
+  }
+}

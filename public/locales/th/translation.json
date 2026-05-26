@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ สตูดิโอสำหรับทศวรรษใหม่",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "เราสร้างเว็บที่คนไม่ผ่านไปเฉยๆ — พวกเขาหยุดและ<0>ดูอีกครั้ง</0>",
+    "cta_primary": "เริ่มกันเลย",
+    "cta_secondary": "ดูพอร์ตโฟลิโอ",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ สิ่งที่คุณได้",
+    "title": "Stack ที่ทันสมัย",
+    "title_accent": "ไม่ประนีประนอม",
+    "subtitle": "ทุกองค์ประกอบของเว็บถูกคิดมาแล้ว ตั้งแต่ animation ถึง typography — ทุกอย่างมีที่ทางและจุดประสงค์",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion ทุกที่",
+        "desc": "ทุก hover, scroll, click มี animation ของตัวเอง เว็บไม่เคยรู้สึกนิ่ง"
+      },
+      "three_d": {
+        "title": "3D ไม่ประนีประนอม",
+        "desc": "Scene Three.js เบา (<200KB) พร้อม lazy-loading ลื่นแม้บนแล็ปท็อประดับกลาง"
+      },
+      "performance": {
+        "title": "Performance มาก่อน",
+        "desc": "Lighthouse 95+ Build chunks ต่ำกว่า 500KB Lazy images, preload fonts, GPU animations"
+      },
+      "typography": {
+        "title": "Typography 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — ลำดับชั้นดราม่าจาก 220px hero ถึง 14px caption"
+      }
+    }
+  },
+  "stats": {
+    "projects": "โปรเจกต์ที่ส่งแล้ว",
+    "satisfaction": "ลูกค้ากลับมาด้วย brief ใหม่",
+    "load_time": "ค่าเฉลี่ย Largest Contentful Paint",
+    "fps": "FPS บนแล็ปท็อประดับกลาง"
+  },
+  "cta": {
+    "eyebrow": "◆ ตาคุณแล้ว",
+    "title_line1": "ทำเว็บ",
+    "title_line2": "ที่คนจะอิจฉา",
+    "subtitle": "ตั้งค่าโปรเจกต์ใน 30 วินาที บอก Claude ว่าต้องการอะไร รับ<0>เว็บพร้อมขึ้นโปรดักชัน</0>ในหนึ่งชั่วโมง",
+    "cta_primary": "เริ่มเลย",
+    "cta_secondary": "คุยกับเรา"
+  },
+  "footer": {
+    "tagline": "สร้างด้วยความใส่ใจ — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "เลือกภาษา",
+    "search_placeholder": "ค้นหาภาษา…",
+    "no_match": "ไม่พบรายการ"
+  }
+}

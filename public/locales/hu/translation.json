@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Stúdió egy új évtizedre",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Olyan oldalakat építünk, amik mellett nem scrollolnak el — megállnak és <0>újra megnézik</0>.",
+    "cta_primary": "Kezdjük",
+    "cta_secondary": "Portfólió",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Amit kapsz",
+    "title": "Modern stack",
+    "title_accent": "kompromisszumok nélkül",
+    "subtitle": "Az oldal minden eleme átgondolt. Az animációktól a tipográfiáig — mindennek megvan a helye és a funkciója.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikromozgás mindenhol",
+        "desc": "Minden hover, scroll és kattintás saját animációt kap. Az oldal sosem tűnik statikusnak."
+      },
+      "three_d": {
+        "title": "3D kompromisszumok nélkül",
+        "desc": "Könnyű Three.js jelenetek (<200KB) lazy-loading-gal. Sima még közepes laptopon is."
+      },
+      "performance": {
+        "title": "Performance az első",
+        "desc": "Lighthouse 95+. Build chunkok 500KB alatt. Lazy képek, preloadolt fontok, GPU animációk."
+      },
+      "typography": {
+        "title": "Tipográfia 4 fonttal",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — drámai hierarchia 220px herotól 14px captionig."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Leszállított projekt",
+    "satisfaction": "Visszatérő ügyfél új brieffel",
+    "load_time": "Átlagos Largest Contentful Paint",
+    "fps": "FPS közepes laptopon"
+  },
+  "cta": {
+    "eyebrow": "◆ Te következel",
+    "title_line1": "Csinálj egy oldalt,",
+    "title_line2": "amit irigyelni fognak.",
+    "subtitle": "Állítsd be a projektet 30 másodperc alatt, mondd el Claude-nak mit szeretnél, kapj <0>egy production-ready oldalt</0> egy óra alatt.",
+    "cta_primary": "Indítás most",
+    "cta_secondary": "Beszéljünk"
+  },
+  "footer": {
+    "tagline": "Gondossággal készült — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Válassz nyelvet",
+    "search_placeholder": "Nyelv keresése…",
+    "no_match": "Nincs találat."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio na nową dekadę",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Tworzymy strony tak żeby gość nie scrollował dalej — zatrzymał się i <0>spojrzał jeszcze raz</0>.",
+    "cta_primary": "Zaczynamy",
+    "cta_secondary": "Zobacz portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Co dostajesz",
+    "title": "Nowoczesny stack",
+    "title_accent": "bez kompromisów",
+    "subtitle": "Każdy element strony jest przemyślany. Od animacji po typografię — wszystko ma swoje miejsce i swoją funkcję.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikroruchy wszędzie",
+        "desc": "Każdy hover, scroll, klik ma swoją animację. Strona nigdy nie wygląda na statyczną."
+      },
+      "three_d": {
+        "title": "3D bez kompromisów",
+        "desc": "Lekkie sceny Three.js (<200KB) z lazy-loadingiem. Działa płynnie nawet na średnim laptopie."
+      },
+      "performance": {
+        "title": "Performance first",
+        "desc": "Lighthouse 95+. Build chunki pod 500KB. Obrazy lazy, fonty preload, animacje GPU."
+      },
+      "typography": {
+        "title": "Typografia 4 fonty",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — hierarchia dramatyczna od 220px hero do 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projektów dowiezionych",
+    "satisfaction": "Klientów wraca z drugim brief",
+    "load_time": "Średni Largest Contentful Paint",
+    "fps": "FPS na średnim laptopie"
+  },
+  "cta": {
+    "eyebrow": "◆ Twoja kolej",
+    "title_line1": "Zrób stronę,",
+    "title_line2": "której pozazdroszczą.",
+    "subtitle": "Skonfiguruj projekt w 30 sekund, opisz Claude'owi co chcesz, dostań <0>stronę gotową do produkcji</0> w godzinę.",
+    "cta_primary": "Zacznij teraz",
+    "cta_secondary": "Pogadaj z nami"
+  },
+  "footer": {
+    "tagline": "Crafted with care — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Wybierz język",
+    "search_placeholder": "Szukaj języka…",
+    "no_match": "Brak dopasowań."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio cho thập kỷ mới",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Chúng tôi xây site mà người ta không lướt qua — họ dừng lại và <0>nhìn lại lần nữa</0>.",
+    "cta_primary": "Bắt đầu nào",
+    "cta_secondary": "Xem portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Bạn nhận được gì",
+    "title": "Stack hiện đại",
+    "title_accent": "không thoả hiệp",
+    "subtitle": "Mọi yếu tố trên site đều được tính toán. Từ animation đến typography — mọi thứ đều có chỗ và mục đích.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion khắp nơi",
+        "desc": "Mọi hover, scroll và click đều có animation riêng. Site không bao giờ trông tĩnh."
+      },
+      "three_d": {
+        "title": "3D không thoả hiệp",
+        "desc": "Scene Three.js nhẹ (<200KB) với lazy-loading. Mượt ngay cả trên laptop tầm trung."
+      },
+      "performance": {
+        "title": "Performance trước tiên",
+        "desc": "Lighthouse 95+. Build chunks dưới 500KB. Lazy images, preload fonts, GPU animations."
+      },
+      "typography": {
+        "title": "Typography với 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — phân cấp kịch tính từ 220px hero đến 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Dự án đã giao",
+    "satisfaction": "Khách quay lại với brief mới",
+    "load_time": "Largest Contentful Paint trung bình",
+    "fps": "FPS trên laptop tầm trung"
+  },
+  "cta": {
+    "eyebrow": "◆ Đến lượt bạn",
+    "title_line1": "Làm một site",
+    "title_line2": "khiến họ ghen tị.",
+    "subtitle": "Setup dự án trong 30 giây, nói cho Claude biết bạn muốn gì, nhận <0>site sẵn sàng production</0> trong một giờ.",
+    "cta_primary": "Bắt đầu ngay",
+    "cta_secondary": "Nói chuyện với chúng tôi"
+  },
+  "footer": {
+    "tagline": "Tạo ra với sự tỉ mỉ — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Chọn ngôn ngữ",
+    "search_placeholder": "Tìm ngôn ngữ…",
+    "no_match": "Không có kết quả."
+  }
+}

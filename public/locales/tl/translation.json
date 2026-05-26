@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio para sa bagong dekada",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Gumagawa kami ng sites na hindi lang na-i-scroll — humihinto sila at <0>tumitingin ulit</0>.",
+    "cta_primary": "Simulan na",
+    "cta_secondary": "Tingnan portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ano ang makukuha mo",
+    "title": "Modernong stack",
+    "title_accent": "walang kompromiso",
+    "subtitle": "Bawat elemento ng site ay pinag-isipan. Mula animation hanggang typography — bawat isa may lugar at layunin.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-motion kahit saan",
+        "desc": "Bawat hover, scroll at click ay may sariling animation. Hindi kailanman nakakaramdam ng static ang site."
+      },
+      "three_d": {
+        "title": "3D walang kompromiso",
+        "desc": "Magagaan na Three.js scenes (<200KB) na may lazy-loading. Smooth kahit sa mid-range na laptop."
+      },
+      "performance": {
+        "title": "Performance una",
+        "desc": "Lighthouse 95+. Build chunks na below 500KB. Lazy images, preload fonts, GPU animations."
+      },
+      "typography": {
+        "title": "Typography sa 4 fonts",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatic hierarchy mula 220px hero hanggang 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Mga naipasang proyekto",
+    "satisfaction": "Mga kliyenteng bumabalik para sa bagong brief",
+    "load_time": "Karaniwang Largest Contentful Paint",
+    "fps": "FPS sa mid-range laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Ikaw na",
+    "title_line1": "Gumawa ng site",
+    "title_line2": "na iiinggit nila.",
+    "subtitle": "I-set up ang proyekto sa 30 segundo, sabihin kay Claude ang gusto mo, kunin ang <0>production-ready site</0> sa isang oras.",
+    "cta_primary": "Simulan ngayon",
+    "cta_secondary": "Kausapin kami"
+  },
+  "footer": {
+    "tagline": "Ginawa nang may pag-iingat — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Pumili ng wika",
+    "search_placeholder": "Hanapin ang wika…",
+    "no_match": "Walang tugma."
+  }
+}

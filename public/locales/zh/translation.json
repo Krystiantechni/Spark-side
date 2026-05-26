@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ 新十年的工作室",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "我们打造的网站不会被一掠而过 — 会让人停下来 <0>再看一眼</0>。",
+    "cta_primary": "开始吧",
+    "cta_secondary": "查看作品集",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ 你将获得",
+    "title": "现代化技术栈",
+    "title_accent": "毫不妥协",
+    "subtitle": "网站的每个元素都经过深思熟虑。从动画到排版 — 一切都各得其所、各有所用。",
+    "items": {
+      "micro_motion": {
+        "title": "无处不在的微动效",
+        "desc": "每个悬停、滚动、点击都有自己的动画。网站永远不会感觉静止。"
+      },
+      "three_d": {
+        "title": "毫不妥协的 3D",
+        "desc": "轻量级 Three.js 场景 (<200KB),配合懒加载。即使在中端笔记本上也能流畅运行。"
+      },
+      "performance": {
+        "title": "性能至上",
+        "desc": "Lighthouse 95+。构建块小于 500KB。图片懒加载、字体预加载、GPU 动画。"
+      },
+      "typography": {
+        "title": "4 种字体的排版",
+        "desc": "Apoc、Azonix、Quffer、Urbanist — 从 220px hero 到 14px caption 的戏剧化层级。"
+      }
+    }
+  },
+  "stats": {
+    "projects": "已交付项目",
+    "satisfaction": "客户带着第二个项目回来",
+    "load_time": "平均最大内容绘制",
+    "fps": "中端笔记本上的 FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ 轮到你了",
+    "title_line1": "做一个让人",
+    "title_line2": "羡慕的网站。",
+    "subtitle": "30 秒配置项目,告诉 Claude 你想要什么,一小时内获得 <0>可投入生产的网站</0>。",
+    "cta_primary": "立即开始",
+    "cta_secondary": "联系我们"
+  },
+  "footer": {
+    "tagline": "用心打造 — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "选择语言",
+    "search_placeholder": "搜索语言…",
+    "no_match": "没有匹配的语言。"
+  }
+}

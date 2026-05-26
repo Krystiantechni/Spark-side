@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ 새로운 10년을 위한 스튜디오",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "스크롤로 지나칠 수 없는 사이트를 만듭니다 — 멈춰 서서 <0>다시 보게 만들어요</0>.",
+    "cta_primary": "시작하기",
+    "cta_secondary": "포트폴리오 보기",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ 받게 되는 것",
+    "title": "현대적인 스택,",
+    "title_accent": "타협 없이",
+    "subtitle": "사이트의 모든 요소는 깊이 고민되었습니다. 애니메이션부터 타이포그래피까지 — 모든 것이 자리와 목적을 가집니다.",
+    "items": {
+      "micro_motion": {
+        "title": "어디서나 마이크로 모션",
+        "desc": "모든 호버, 스크롤, 클릭에 자체 애니메이션이 있습니다. 사이트가 정적으로 느껴지지 않습니다."
+      },
+      "three_d": {
+        "title": "타협 없는 3D",
+        "desc": "가벼운 Three.js 씬 (<200KB) + 지연 로딩. 중급 노트북에서도 부드럽게 작동합니다."
+      },
+      "performance": {
+        "title": "성능 우선",
+        "desc": "Lighthouse 95+. 빌드 청크 500KB 이하. 지연 이미지, 폰트 프리로드, GPU 애니메이션."
+      },
+      "typography": {
+        "title": "4가지 폰트의 타이포그래피",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — 220px 히어로에서 14px 캡션까지 극적인 계층."
+      }
+    }
+  },
+  "stats": {
+    "projects": "납품된 프로젝트",
+    "satisfaction": "두 번째 브리프로 돌아오는 고객",
+    "load_time": "평균 Largest Contentful Paint",
+    "fps": "중급 노트북에서의 FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ 당신 차례",
+    "title_line1": "그들이 부러워할",
+    "title_line2": "사이트를 만드세요.",
+    "subtitle": "30초 만에 프로젝트를 설정하고, Claude에게 원하는 것을 말하고, 한 시간 안에 <0>프로덕션 준비 사이트</0>를 받으세요.",
+    "cta_primary": "지금 시작",
+    "cta_secondary": "문의하기"
+  },
+  "footer": {
+    "tagline": "정성껏 제작 — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "언어 선택",
+    "search_placeholder": "언어 검색…",
+    "no_match": "일치하는 언어 없음."
+  }
+}

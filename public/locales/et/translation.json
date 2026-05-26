@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Stuudio uueks aastakümneks",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Ehitame saite, millest ei kerita lihtsalt mööda — külastaja jääb seisma ja <0>vaatab uuesti</0>.",
+    "cta_primary": "Alustame",
+    "cta_secondary": "Vaata portfooliot",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Mida saad",
+    "title": "Moodne stack",
+    "title_accent": "ilma kompromissideta",
+    "subtitle": "Iga saidi element on läbi mõeldud. Animatsioonidest tüpograafiani — kõigel on oma koht ja eesmärk.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikroliikumine kõikjal",
+        "desc": "Iga hover, kerimine ja klikk saab oma animatsiooni. Sait ei tundu kunagi staatiline."
+      },
+      "three_d": {
+        "title": "3D ilma kompromissita",
+        "desc": "Kerged Three.js stseenid (<200KB) lazy-loadinguga. Sujuv ka keskpärasel sülearvutil."
+      },
+      "performance": {
+        "title": "Performance esikohal",
+        "desc": "Lighthouse 95+. Build chunkid alla 500KB. Lazy pildid, preload fondid, GPU animatsioonid."
+      },
+      "typography": {
+        "title": "Tüpograafia 4 fondiga",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramaatiline hierarhia 220px herost 14px captionini."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Tarnitud projekti",
+    "satisfaction": "Klienti uue briefi",
+    "load_time": "Keskmine Largest Contentful Paint",
+    "fps": "FPS keskpärasel sülearvutil"
+  },
+  "cta": {
+    "eyebrow": "◆ Sinu kord",
+    "title_line1": "Tee sait,",
+    "title_line2": "mida kadestatakse.",
+    "subtitle": "Sea projekt üles 30 sekundiga, ütle Claude'ile mida tahad, saa <0>tootmisvalmis sait</0> tunni ajaga.",
+    "cta_primary": "Alusta kohe",
+    "cta_secondary": "Räägime"
+  },
+  "footer": {
+    "tagline": "Loodud hoolega — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Vali keel",
+    "search_placeholder": "Otsi keelt…",
+    "no_match": "Vasteid pole."
+  }
+}

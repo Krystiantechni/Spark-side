@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio für ein neues Jahrzehnt",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Wir bauen Seiten, an denen niemand vorbeiscrollt — sie bringen Besucher dazu, innezuhalten und <0>noch einmal hinzusehen</0>.",
+    "cta_primary": "Loslegen",
+    "cta_secondary": "Portfolio ansehen",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Was du bekommst",
+    "title": "Ein moderner Stack",
+    "title_accent": "ohne Kompromisse",
+    "subtitle": "Jedes Element der Seite ist durchdacht. Von Animationen bis zur Typografie — alles hat seinen Platz und Zweck.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrobewegungen überall",
+        "desc": "Jeder Hover, Scroll und Klick hat seine eigene Animation. Die Seite wirkt nie statisch."
+      },
+      "three_d": {
+        "title": "3D ohne Kompromisse",
+        "desc": "Leichte Three.js-Szenen (<200KB) mit Lazy-Loading. Läuft flüssig auch auf Mid-Range-Laptops."
+      },
+      "performance": {
+        "title": "Performance an erster Stelle",
+        "desc": "Lighthouse 95+. Build-Chunks unter 500KB. Lazy Images, vorgeladene Fonts, GPU-Animationen."
+      },
+      "typography": {
+        "title": "Typografie in 4 Schriften",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatische Hierarchie von 220px Hero bis 14px Caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Ausgelieferte Projekte",
+    "satisfaction": "Kunden mit zweitem Briefing",
+    "load_time": "Durchschnittl. Largest Contentful Paint",
+    "fps": "FPS auf Mid-Range-Laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Du bist dran",
+    "title_line1": "Bau eine Seite,",
+    "title_line2": "die sie beneiden.",
+    "subtitle": "Richte das Projekt in 30 Sekunden ein, sag Claude was du willst, bekomm <0>eine produktionsreife Seite</0> in einer Stunde.",
+    "cta_primary": "Jetzt starten",
+    "cta_secondary": "Mit uns sprechen"
+  },
+  "footer": {
+    "tagline": "Mit Sorgfalt erstellt — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Sprache wählen",
+    "search_placeholder": "Sprache suchen…",
+    "no_match": "Keine Sprache gefunden."
+  }
+}

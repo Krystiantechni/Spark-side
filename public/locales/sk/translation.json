@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Štúdio na novú dekádu",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Staviame weby tak, aby ich návštevník nepreskroloval — zastavil sa a <0>pozrel ešte raz</0>.",
+    "cta_primary": "Ideme na to",
+    "cta_secondary": "Pozri portfólio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Čo dostaneš",
+    "title": "Moderný stack",
+    "title_accent": "bez kompromisov",
+    "subtitle": "Každý prvok webu je premyslený. Od animácií po typografiu — všetko má svoje miesto a funkciu.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikropohyb všade",
+        "desc": "Každý hover, scroll a klik má vlastnú animáciu. Stránka nikdy nepôsobí staticky."
+      },
+      "three_d": {
+        "title": "3D bez kompromisov",
+        "desc": "Ľahké Three.js scény (<200KB) s lazy-loadingom. Plynulé aj na priemernom notebooku."
+      },
+      "performance": {
+        "title": "Performance na prvom mieste",
+        "desc": "Lighthouse 95+. Build chunky pod 500KB. Lazy obrázky, preload fontov, GPU animácie."
+      },
+      "typography": {
+        "title": "Typografia v 4 fontoch",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatická hierarchia od 220px hero po 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Doručených projektov",
+    "satisfaction": "Klientov s druhým briefom",
+    "load_time": "Priemerný Largest Contentful Paint",
+    "fps": "FPS na priemernom notebooku"
+  },
+  "cta": {
+    "eyebrow": "◆ Si na rade",
+    "title_line1": "Postav web,",
+    "title_line2": "ktorý budú závidieť.",
+    "subtitle": "Nastav projekt za 30 sekúnd, povedz Claudovi čo chceš, dostaň <0>web pripravený na produkciu</0> za hodinu.",
+    "cta_primary": "Začať teraz",
+    "cta_secondary": "Pohovorme si"
+  },
+  "footer": {
+    "tagline": "Vytvorené so starostlivosťou — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Vyber jazyk",
+    "search_placeholder": "Hľadať jazyk…",
+    "no_match": "Žiadna zhoda."
+  }
+}

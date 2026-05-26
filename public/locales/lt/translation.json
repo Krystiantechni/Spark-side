@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studija naujam dešimtmečiui",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Kuriame svetaines, pro kurias nepraslenkama — lankytojas sustoja ir <0>pažvelgia dar kartą</0>.",
+    "cta_primary": "Pradedam",
+    "cta_secondary": "Žiūrėti portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Ką gauni",
+    "title": "Modernus stack",
+    "title_accent": "be kompromisų",
+    "subtitle": "Kiekvienas svetainės elementas apgalvotas. Nuo animacijų iki tipografijos — viskas turi savo vietą ir paskirtį.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrojudėjimas visur",
+        "desc": "Kiekvienas hover, slinktis ir paspaudimas turi savo animaciją. Svetainė niekada neatrodo statiška."
+      },
+      "three_d": {
+        "title": "3D be kompromisų",
+        "desc": "Lengvos Three.js scenos (<200KB) su lazy-loading. Sklandu net vidutiniame nešiojamajame."
+      },
+      "performance": {
+        "title": "Performance pirmoje vietoje",
+        "desc": "Lighthouse 95+. Build chunks po 500KB. Lazy paveikslai, preload šriftai, GPU animacijos."
+      },
+      "typography": {
+        "title": "Tipografija su 4 šriftais",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatiška hierarchija nuo 220px hero iki 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Pristatytų projektų",
+    "satisfaction": "Klientų su antru briefu",
+    "load_time": "Vidutinis Largest Contentful Paint",
+    "fps": "FPS vidutiniame nešiojamajame"
+  },
+  "cta": {
+    "eyebrow": "◆ Tavo eilė",
+    "title_line1": "Sukurk svetainę,",
+    "title_line2": "kurios pavydės.",
+    "subtitle": "Nustatyk projektą per 30 sekundžių, pasakyk Claude ko nori, gauk <0>gamybai paruoštą svetainę</0> per valandą.",
+    "cta_primary": "Pradėti dabar",
+    "cta_secondary": "Pasikalbėkime"
+  },
+  "footer": {
+    "tagline": "Sukurta su rūpesčiu — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Pasirink kalbą",
+    "search_placeholder": "Ieškoti kalbos…",
+    "no_match": "Atitikmenų nėra."
+  }
+}

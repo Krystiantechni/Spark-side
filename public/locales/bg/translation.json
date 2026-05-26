@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Студио за ново десетилетие",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Правим сайтове, които не се прескачат — посетителят спира и <0>поглежда отново</0>.",
+    "cta_primary": "Започваме",
+    "cta_secondary": "Виж портфолиото",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Какво получаваш",
+    "title": "Модерен стак",
+    "title_accent": "без компромиси",
+    "subtitle": "Всеки елемент на сайта е обмислен. От анимациите до типографията — всичко има своето място и функция.",
+    "items": {
+      "micro_motion": {
+        "title": "Микро-движение навсякъде",
+        "desc": "Всеки hover, скрол и клик има своя анимация. Сайтът никога не изглежда статичен."
+      },
+      "three_d": {
+        "title": "3D без компромиси",
+        "desc": "Леки Three.js сцени (<200KB) с lazy-loading. Гладко дори на среден лаптоп."
+      },
+      "performance": {
+        "title": "Performance на първо място",
+        "desc": "Lighthouse 95+. Build chunks под 500KB. Lazy изображения, preload шрифтове, GPU анимации."
+      },
+      "typography": {
+        "title": "Типография с 4 шрифта",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — драматична йерархия от 220px hero до 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Доставени проекта",
+    "satisfaction": "Клиенти, връщащи се с нов бриф",
+    "load_time": "Среден Largest Contentful Paint",
+    "fps": "FPS на среден лаптоп"
+  },
+  "cta": {
+    "eyebrow": "◆ Твой ред",
+    "title_line1": "Направи сайт,",
+    "title_line2": "на който ще завиждат.",
+    "subtitle": "Настрой проекта за 30 секунди, кажи на Claude какво искаш, получи <0>сайт, готов за продукция</0> за час.",
+    "cta_primary": "Започни сега",
+    "cta_secondary": "Говори с нас"
+  },
+  "footer": {
+    "tagline": "Изработено с грижа — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Избери език",
+    "search_placeholder": "Търси език…",
+    "no_match": "Няма съвпадения."
+  }
+}

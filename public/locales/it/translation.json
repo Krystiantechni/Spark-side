@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studio per una nuova decade",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Costruiamo siti che non vengono scrollati via — fanno fermare le persone a <0>guardare ancora</0>.",
+    "cta_primary": "Partiamo",
+    "cta_secondary": "Vedi portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Cosa ottieni",
+    "title": "Uno stack moderno",
+    "title_accent": "senza compromessi",
+    "subtitle": "Ogni elemento del sito è pensato. Dalle animazioni alla tipografia — tutto ha il suo posto e scopo.",
+    "items": {
+      "micro_motion": {
+        "title": "Micro-movimento ovunque",
+        "desc": "Ogni hover, scroll e clic ha la sua animazione. Il sito non sembra mai statico."
+      },
+      "three_d": {
+        "title": "3D senza compromessi",
+        "desc": "Scene Three.js leggere (<200KB) con lazy-loading. Fluido anche su laptop di fascia media."
+      },
+      "performance": {
+        "title": "Performance prima di tutto",
+        "desc": "Lighthouse 95+. Chunk di build sotto 500KB. Immagini lazy, font preload, animazioni GPU."
+      },
+      "typography": {
+        "title": "Tipografia in 4 font",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — gerarchia drammatica da 220px hero a 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Progetti consegnati",
+    "satisfaction": "Clienti tornati con secondo brief",
+    "load_time": "Largest Contentful Paint medio",
+    "fps": "FPS su laptop di fascia media"
+  },
+  "cta": {
+    "eyebrow": "◆ Tocca a te",
+    "title_line1": "Fai un sito",
+    "title_line2": "che invidieranno.",
+    "subtitle": "Configura il progetto in 30 secondi, di' a Claude cosa vuoi, ricevi <0>un sito pronto per la produzione</0> in un'ora.",
+    "cta_primary": "Inizia ora",
+    "cta_secondary": "Parla con noi"
+  },
+  "footer": {
+    "tagline": "Realizzato con cura — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Scegli lingua",
+    "search_placeholder": "Cerca lingua…",
+    "no_match": "Nessuna lingua corrispondente."
+  }
+}

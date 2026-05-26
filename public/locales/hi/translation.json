@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ नए दशक का स्टूडियो",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "हम ऐसी साइटें बनाते हैं जिन्हें लोग बस स्क्रॉल करके नहीं छोड़ते — वे रुकते हैं और <0>फिर से देखते हैं</0>।",
+    "cta_primary": "शुरू करें",
+    "cta_secondary": "पोर्टफोलियो देखें",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ आपको क्या मिलता है",
+    "title": "एक मॉडर्न स्टैक",
+    "title_accent": "बिना समझौते के",
+    "subtitle": "साइट का हर एलिमेंट सोचा-समझा है। एनिमेशन से लेकर टाइपोग्राफी तक — हर चीज़ की अपनी जगह और मकसद है।",
+    "items": {
+      "micro_motion": {
+        "title": "हर जगह माइक्रो-मोशन",
+        "desc": "हर hover, scroll और click का अपना एनिमेशन है। साइट कभी स्टैटिक नहीं लगती।"
+      },
+      "three_d": {
+        "title": "3D बिना समझौते के",
+        "desc": "हल्के Three.js सीन (<200KB) lazy-loading के साथ। मिड-रेंज लैपटॉप पर भी स्मूद।"
+      },
+      "performance": {
+        "title": "Performance सबसे पहले",
+        "desc": "Lighthouse 95+. Build chunks 500KB से कम। Lazy images, preload fonts, GPU animations।"
+      },
+      "typography": {
+        "title": "4 fonts में टाइपोग्राफी",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — 220px hero से 14px caption तक नाटकीय हाइरार्की।"
+      }
+    }
+  },
+  "stats": {
+    "projects": "डिलीवर हुए प्रोजेक्ट्स",
+    "satisfaction": "दूसरे ब्रीफ के साथ लौटे क्लाइंट",
+    "load_time": "औसत Largest Contentful Paint",
+    "fps": "मिड-रेंज लैपटॉप पर FPS"
+  },
+  "cta": {
+    "eyebrow": "◆ अब आपकी बारी",
+    "title_line1": "ऐसी साइट बनाएं",
+    "title_line2": "जिससे लोग जलें।",
+    "subtitle": "30 सेकंड में प्रोजेक्ट सेट करें, Claude को बताएं क्या चाहिए, एक घंटे में पाएं <0>production-ready साइट</0>।",
+    "cta_primary": "अभी शुरू करें",
+    "cta_secondary": "हमसे बात करें"
+  },
+  "footer": {
+    "tagline": "ध्यान से बनाया गया — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "भाषा चुनें",
+    "search_placeholder": "भाषा खोजें…",
+    "no_match": "कोई मिलान नहीं।"
+  }
+}

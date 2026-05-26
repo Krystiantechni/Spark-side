@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "◆ Studie til et nyt årti",
+    "title_line1": "DESIGN",
+    "title_line3": "BEYOND",
+    "subtitle": "Vi bygger sites, folk ikke bare scroller forbi — de stopper op og <0>kigger en gang til</0>.",
+    "cta_primary": "Lad os starte",
+    "cta_secondary": "Se portfolio",
+    "scroll_hint": "scroll to dive",
+    "typewriter": ["WOW", "MOTION", "CRAFT", "VIBES"]
+  },
+  "features": {
+    "eyebrow": "◆ Hvad du får",
+    "title": "Et moderne stack",
+    "title_accent": "uden kompromis",
+    "subtitle": "Hvert element er gennemtænkt. Fra animationer til typografi — alt har sin plads og sit formål.",
+    "items": {
+      "micro_motion": {
+        "title": "Mikrobevægelse overalt",
+        "desc": "Hvert hover, scroll og klik har sin egen animation. Sitet føles aldrig statisk."
+      },
+      "three_d": {
+        "title": "3D uden kompromis",
+        "desc": "Lette Three.js-scener (<200KB) med lazy-loading. Glat selv på en mellem-laptop."
+      },
+      "performance": {
+        "title": "Performance først",
+        "desc": "Lighthouse 95+. Build chunks under 500KB. Lazy billeder, preloadede fonte, GPU-animationer."
+      },
+      "typography": {
+        "title": "Typografi i 4 fonte",
+        "desc": "Apoc, Azonix, Quffer, Urbanist — dramatisk hierarki fra 220px hero ned til 14px caption."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Leverede projekter",
+    "satisfaction": "Kunder med endnu en brief",
+    "load_time": "Gns. Largest Contentful Paint",
+    "fps": "FPS på en mellem-laptop"
+  },
+  "cta": {
+    "eyebrow": "◆ Din tur",
+    "title_line1": "Lav et site,",
+    "title_line2": "de vil misunde.",
+    "subtitle": "Sæt projektet op på 30 sekunder, fortæl Claude hvad du vil have, få <0>et produktionsklart site</0> på en time.",
+    "cta_primary": "Start nu",
+    "cta_secondary": "Snak med os"
+  },
+  "footer": {
+    "tagline": "Lavet med omhu — © {{year}}"
+  },
+  "language_switcher": {
+    "label": "Vælg sprog",
+    "search_placeholder": "Søg sprog…",
+    "no_match": "Intet sprog matcher."
+  }
+}
