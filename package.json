@@ -10,6 +10,9 @@
     "preview": "vite preview",
     "i18n:check": "node scripts/i18n-check.cjs"
   },
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@iconify/react": "^6.0.2",

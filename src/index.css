@@ -1,26 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Urbanist:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@400;700;900&family=Noto+Sans+JP:wght@400;700;900&family=Noto+Sans+KR:wght@400;700;900&family=Noto+Sans+Bengali:wght@400;700&family=Noto+Sans+Devanagari:wght@400;700&family=Noto+Sans+Thai:wght@400;700&display=swap");
 
 @font-face {
-  font-family: "Apoc";
-  src: url("/fonts/Apoc-Revelations.woff2") format("woff2"), url("/fonts/Apoc-Revelations.otf") format("opentype");
-  font-display: swap;
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Quffer";
-  src: url("/fonts/Quffer.woff2") format("woff2"), url("/fonts/Quffer.ttf") format("truetype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Gonero";
-  src: url("/fonts/Gonero.woff2") format("woff2"), url("/fonts/Gonero.ttf") format("truetype");
-  font-display: swap;
-}
-
-@font-face {
   font-family: "Azonix";
   src: url("/fonts/Azonix.woff2") format("woff2"), url("/fonts/Azonix.otf") format("opentype");
   font-display: swap;
