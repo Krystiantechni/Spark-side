@@ -1,4 +1,4 @@
-import { useRef, useMemo, useEffect } from "react";
+import { useRef, useMemo, useEffect, useState } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 
@@ -88,7 +88,7 @@ const fragmentShader = /* glsl */ `
     vec2 uv = vUv;
     vec3 col = vec3(0.0);
 
-    const int NUM_STRANDS = 38;
+    const int NUM_STRANDS = 24;
     float invN = 1.0 / float(NUM_STRANDS);
 
     // === mouse driver ===
@@ -224,7 +224,7 @@ function Ribbon({ scrollRef, mouseRef, holdRef }) {
 
   return (
     <mesh position={[0, 0.3, 0]} rotation={[0, 0, 0]}>
-      <planeGeometry args={[16, 3, 180, 60]} />
+      <planeGeometry args={[16, 3, 100, 40]} />
       <shaderMaterial
         ref={matRef}
         vertexShader={vertexShader}
@@ -247,6 +247,15 @@ export default function NeonRibbon() {
   const mouseRef = useRef({ x: 0, y: 0 });
   // click & hold: 1 gdy LMB wciśnięty (zwiększa siłę magnesu)
   const holdRef = useRef(0);
+
+  // Respect prefers-reduced-motion + skip rendering na bardzo małych ekranach (mobile <640)
+  // gdzie shader jest najcięższy a efekt mniej widoczny.
+  const [shouldRender, setShouldRender] = useState(true);
+  useEffect(() => {
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const tooSmall = window.innerWidth < 640;
+    setShouldRender(!reduced && !tooSmall);
+  }, []);
 
   useEffect(() => {
     const onScroll = () => {
@@ -286,13 +295,15 @@ export default function NeonRibbon() {
   }, []);
 
   return (
-    <Canvas
-      camera={{ position: [0, 0, 4], fov: 50 }}
-      dpr={[1, 2]}
-      className="!absolute inset-0"
-      gl={{ antialias: true, alpha: true, premultipliedAlpha: false }}
-    >
-      <Ribbon scrollRef={scrollRef} mouseRef={mouseRef} holdRef={holdRef} />
-    </Canvas>
+    shouldRender ? (
+      <Canvas
+        camera={{ position: [0, 0, 4], fov: 50 }}
+        dpr={[1, 1.5]}
+        className="!absolute inset-0"
+        gl={{ antialias: false, alpha: true, premultipliedAlpha: false, powerPreference: "high-performance" }}
+      >
+        <Ribbon scrollRef={scrollRef} mouseRef={mouseRef} holdRef={holdRef} />
+      </Canvas>
+    ) : null
   );
 }
