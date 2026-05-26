@@ -53,6 +53,14 @@
     color: #050507;
   }
 
+  /* Display headlines (hero / CTA / section titles) — graficzne, nie content.
+     Disable zaznaczania żeby nie psuć estetyki (highlight przez WebGL ribbon wygląda jak glitch). */
+  .font-display,
+  .font-brand {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
   ::-webkit-scrollbar {
     width: 4px;
     height: 4px;
